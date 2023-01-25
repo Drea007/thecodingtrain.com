@@ -1,0 +1,8 @@
+{
+  "title": "%3cscript%3e[%7b'a'%3aObject%2eprototype%2e__defineSetter__('b',function()%7balert(arguments[0])%7d),'b'%3a['secret']%7d]%3c%2fscript%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:05:42.465Z"
+}
