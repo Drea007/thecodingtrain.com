@@ -1,0 +1,8 @@
+{
+  "title": "%3c!--%20IE%205-9%20--%3e%3cdiv%20id%3dd%3e%3cx%20xmlns%3d%22%3e%3ciframe%20onload%3dalert(1)%22%3e%3c%2fdiv%3e%3cscript%3ed%2einnerHTML%2b%3d''%3b%3c%2fscript%3e%3c!--%20IE%2010%20in%20IE5-9%20Standards%20mode%20--%3e%3cdiv%20id%3dd%3e%3cx%20xmlns%3d'%22%3e%3ciframe%20onload%3dalert(2)%2f%2f'%3e%3c%2fdiv%3e%3cscript%3ed%2einnerHTML%2b%3d''%3b%3c%2fscript%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:08:48.002Z"
+}
