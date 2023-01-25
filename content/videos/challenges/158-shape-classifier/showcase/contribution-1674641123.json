@@ -1,0 +1,8 @@
+{
+  "title": "%3ca%20style%3d%22pointer-events%3anone%3bposition%3aabsolute%3b%22%3e%3ca%20style%3d%22position%3aabsolute%3b%22%20onclick%3d%22alert(1)%3b%22%3eXXX%3c%2fa%3e%3c%2fa%3e%3ca%20href%3d%22javascript%3aalert(2)%22%3eXXX%3c%2fa%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:05:23.588Z"
+}
