@@ -1,0 +1,8 @@
+{
+  "title": "[A]%3c%3f%20foo%3d%22%3e%3cscript%3ealert(1)%3c%2fscript%3e%22%3e%3c!%20foo%3d%22%3e%3cscript%3ealert(1)%3c%2fscript%3e%22%3e%3c%2f%20foo%3d%22%3e%3cscript%3ealert(1)%3c%2fscript%3e%22%3e[B]%3c%3f%20foo%3d%22%3e%3cx%20foo%3d'%3f%3e%3cscript%3ealert(1)%3c%2fscript%3e'%3e%22%3e[C]%3c!%20foo%3d%22[[[x]]%22%3e%3cx%20foo%3d%22]foo%3e%3cscript%3ealert(1)%3c%2fscript%3e%22%3e[D]%3c%%20foo%3e%3cx%20foo%3d%22%%3e%3cscript%3ealert(1)%3c%2fscript%3e%22%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:05:32.328Z"
+}
