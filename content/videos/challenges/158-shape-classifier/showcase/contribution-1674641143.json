@@ -1,0 +1,8 @@
+{
+  "title": "%3cxml%20id%3d%22xss%22%20src%3d%22test%2ehtc%22%3e%3c%2fxml%3e%3clabel%20dataformatas%3d%22html%22%20datasrc%3d%22%23xss%22%20datafld%3d%22payload%22%3e%3c%2flabel%3e",
+  "author": {
+    "name": "Pieere"
+  },
+  "url": "http://google.com",
+  "submittedOn": "2023-01-25T10:05:43.437Z"
+}
